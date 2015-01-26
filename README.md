@@ -15,7 +15,7 @@ Prerequisites
 How to use?
 -----------
 
-./wallpaper500px "[URL]"
+./wallpaper500px.sh "[URL]"
 
 End result
 ----------
